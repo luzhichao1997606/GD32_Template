@@ -1,0 +1,9 @@
+.\objects\qmcx983_dreame.o: Hardware\src\qmcX983\qmcX983_dreame.c
+.\objects\qmcx983_dreame.o: .\Hardware\inc\qmcX983_dreame.h
+.\objects\qmcx983_dreame.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\qmcx983_dreame.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\qmcx983_dreame.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\qmcx983_dreame.o: .\Utilities\systick.h
+.\objects\qmcx983_dreame.o: .\Hardware\inc\gd32_sw_i2c.h
+.\objects\qmcx983_dreame.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\qmcx983_dreame.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
